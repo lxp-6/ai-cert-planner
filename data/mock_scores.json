@@ -1,0 +1,38 @@
+[
+  {
+    "subject": "项目成本管理",
+    "score": 55,
+    "total": 100,
+    "wrong_tags": ["挣值管理", "成本估算", "储备分析"]
+  },
+  {
+    "subject": "项目成本管理",
+    "score": 62,
+    "total": 100,
+    "wrong_tags": ["挣值管理", "成本预算"]
+  },
+  {
+    "subject": "项目风险管理",
+    "score": 58,
+    "total": 100,
+    "wrong_tags": ["风险定量分析", "风险应对策略"]
+  },
+  {
+    "subject": "项目风险管理",
+    "score": 65,
+    "total": 100,
+    "wrong_tags": ["风险识别", "风险应对策略"]
+  },
+  {
+    "subject": "项目进度管理",
+    "score": 78,
+    "total": 100,
+    "wrong_tags": ["关键路径法"]
+  },
+  {
+    "subject": "项目整合管理",
+    "score": 82,
+    "total": 100,
+    "wrong_tags": []
+  }
+]

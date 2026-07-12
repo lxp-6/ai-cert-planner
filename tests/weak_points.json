@@ -1,0 +1,44 @@
+{
+  "top_weak_subjects": [
+    {
+      "subject": "项目成本管理",
+      "loss_rate": 0.42,
+      "average_score": 58.5,
+      "suggestion": "重点复习"
+    },
+    {
+      "subject": "项目风险管理",
+      "loss_rate": 0.39,
+      "average_score": 61.5,
+      "suggestion": "重点复习"
+    },
+    {
+      "subject": "项目进度管理",
+      "loss_rate": 0.22,
+      "average_score": 78.0,
+      "suggestion": "保持巩固"
+    }
+  ],
+  "top_weak_tags": [
+    {
+      "tag": "挣值管理",
+      "wrong_rate": 1.0,
+      "suggestion": "专项训练"
+    },
+    {
+      "tag": "成本估算",
+      "wrong_rate": 1.0,
+      "suggestion": "专项训练"
+    },
+    {
+      "tag": "储备分析",
+      "wrong_rate": 1.0,
+      "suggestion": "专项训练"
+    }
+  ],
+  "action_plan": [
+    "项目成本管理: 重点复习",
+    "项目风险管理: 重点复习",
+    "项目进度管理: 保持巩固"
+  ]
+}
